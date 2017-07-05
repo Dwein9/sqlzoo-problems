@@ -1,4 +1,4 @@
-## SELECT basics
+## SELECT from world
 
 | name        | continent |
 |-------------|-----------|
