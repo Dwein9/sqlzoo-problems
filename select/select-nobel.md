@@ -1,4 +1,4 @@
-## SELECT basics
+## SELECT from nobel
 
 ##### nobel
 | yr    | subject    | winner                       |
