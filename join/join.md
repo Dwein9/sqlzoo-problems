@@ -26,3 +26,11 @@
 | CZE | Czech Republic | Michal Bilek     |
 | GRE | Greece         | Fernando Santos  |
 |... |
+
+##### 13
+| mdate	       | team1 |score1 | team2 | score2 |
+|--------------|-------|-------|-------|--------|  
+| 1 July 2012  | ESP   | 4     | ITA   | 0      |
+| 10 June 2012 | ESP   | 1     | ITA   | 1      |
+| 10 June 2012 | IRL   | 1     | CRO   | 3      |
+| ... |
